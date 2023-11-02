@@ -19,7 +19,7 @@ public class Exercise03 extends JFrame {
 	
 	
 	public Exercise03() {
-		setTitle("EXERCISE_07");
+		setTitle("EXERCISE_03");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 			
 		Container c = getContentPane();
